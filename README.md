@@ -51,6 +51,10 @@ open PitchBot.xcodeproj
 - You can select the LLM Provider (MiniMax or OpenAI Compatible), and set the API Key.
 - If there is no API Key, Chat will use simulation data.
 
+#### Speech Recognition
+
+- Not use other LLM, Just the iOS Speech Recognition
+
 #### Text to Speech Settings
 - MiniMax only.
 - You must set the API Key and Group ID of Minimax.
