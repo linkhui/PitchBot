@@ -28,16 +28,16 @@ open PitchBot.xcodeproj
 #### MiniMax
 
 - Chat
-baseURL: `https://api.minimax.chat/v1/text/chatcompletion_v2`
-model: `abab6.5s-chat`
+    - baseURL: `https://api.minimax.chat/v1/text/chatcompletion_v2`
+    - model: `abab6.5s-chat`
 - Text to Speech
-baseURL: `https://api.minimax.chat/v1/t2a_v2`
-model: `speech-02-turbo`
+    - baseURL: `https://api.minimax.chat/v1/t2a_v2`
+    - model: `speech-02-turbo`
 
 #### OpenAI Compatible(silliconflow)
 - Chat and Evaluation
-baseURL: `https://api.siliconflow.cn/v1/chat/completions`
-model: `deepseek-ai/DeepSeek-V3`
+    - baseURL: `https://api.siliconflow.cn/v1/chat/completions`
+    - model: `deepseek-ai/DeepSeek-V3`
 
 ### LLM Settings
 - Launch the app on a simulator or a physical device
