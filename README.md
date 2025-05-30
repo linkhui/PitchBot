@@ -9,7 +9,6 @@
 
 1. Clone the repository
 ```bash
-```bash
 git clone https://github.com/linkhui/PitchBot
 ```
 2. Navigate to the project directory
